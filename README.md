@@ -4,6 +4,8 @@ Listagem de pessoas em busca do primeiro emprego na área de desenvolvimento de 
 
 ## Propósito
 
+Este projeto nasceu com a proposta do @danilosilvadev (no [Slack](https://github.com/training-center/slack)) com o intuito de ajudar pessoas que **NUNCA** trabalharam na área de desenvolvimento de software.
+
 Estamos aqui para ajudar pessoas a arrumar seu primeiro emprego na nossa área.
 
 Listaremos aqui os perfis de pessoas em estágio inicial de sua carreira e você (que esteja contratando) pode encontrar essas pessoas com mais facilidade.

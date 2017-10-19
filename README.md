@@ -26,7 +26,7 @@ Se você está procurando seu **primeiro emprego** na área de desenvolvimento, 
 
 Assim que você conseguir o emprego, a issue deve ser fechada.
 
-## Estou producando candidatos
+## Estou procurando candidatos
 
 Basta entrar em [issues](https://github.com/training-center/primeiro-trampo/issues) e procurar através das labels e entrar em contato com as pessoas.
 

@@ -17,6 +17,8 @@ Adicione um email para contato
 
 Apague esta descrição e deixe somente seus dados.
 
+Lembre-se de apagar os ``` antes e depois do texto.
+
 ## Encontrei um erro ou possuo uma sugestão
 
 Basta apagar todo este conteúdo e adicionar a descrição.

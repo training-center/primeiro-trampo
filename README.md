@@ -1,6 +1,10 @@
 # Primeiro Trampo
 
-Listagem de pessoas em busca do primeiro emprego na área de desenvolvimento de software em geral (ux, ui, front, back, ops, testes, db, etc)
+Repositório com contato de pessoas em busca do primeiro emprego na área de desenvolvimento de software em geral (ux, ui, front, back, ops, testes, db, etc).
+
+Os contatos ficam listados em formato de [issues](https://github.com/training-center/primeiro-trampo/issues) aqui.
+
+Leia como tudo funciona antes de abrir as issues. :)
 
 ## Propósito
 

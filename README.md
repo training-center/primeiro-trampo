@@ -16,7 +16,7 @@ Isso garante que as pessoas estejam alinhadas com uma boa cultura de desenvolvim
 
 ## Estou procurando trampo
 
-Se você está procurando seu primeiro emprego na área de desenvolvimento, abra uma issue e siga as descrições que aparecerão lá.
+Se você está procurando seu **primeiro emprego** na área de desenvolvimento, abra uma issue e siga as descrições que aparecerão lá.
 
 <p align="center">
   <a href="https://github.com/training-center/primeiro-trampo/issues/new"><img src="https://raw.githubusercontent.com/training-center/primeiro-trampo/master/assets/img/button.png" alt="Participe do nosso forum" width="120"/></a>

@@ -19,6 +19,8 @@ Apague esta descrição e deixe somente seus dados.
 
 Lembre-se de apagar os ``` antes e depois do texto.
 
+Se você tiver qualquer outra coisa para falar fora os campos listados, coloque em forma de comentário depois que abrir a issue.
+
 ## Encontrei um erro ou possuo uma sugestão
 
 Basta apagar todo este conteúdo e adicionar a descrição.
